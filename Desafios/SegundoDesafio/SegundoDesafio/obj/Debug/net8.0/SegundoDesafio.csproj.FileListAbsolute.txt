@@ -1,0 +1,14 @@
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.exe
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.deps.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.runtimeconfig.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.AssemblyInfoInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.AssemblyInfo.cs
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\refint\SegundoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.genruntimeconfig.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\ref\SegundoDesafio.dll

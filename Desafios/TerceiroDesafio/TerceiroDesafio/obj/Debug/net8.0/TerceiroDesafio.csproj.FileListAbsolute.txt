@@ -1,0 +1,14 @@
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.AssemblyInfoInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.AssemblyInfo.cs
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.exe
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.deps.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.runtimeconfig.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\refint\TerceiroDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.genruntimeconfig.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\ref\TerceiroDesafio.dll
