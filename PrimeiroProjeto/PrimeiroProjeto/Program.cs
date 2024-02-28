@@ -1,7 +1,8 @@
 ﻿// Screen Sound
 string MensagemDeBoasVindas = "Boas vindas ao Screen Sound!";
+List<string> ListaDasBandas = new List<string> { "Pink Floyd", "The Beatles", "Racionais"};
 
-void ExibirMensagemDeBoasVindas()
+void ExibirLogo()
 {
     Console.WriteLine(@"
 ░██████╗░█████╗░██████╗░███████╗███████╗███╗░░██╗  ░██████╗░█████╗░██╗░░░██╗███╗░░██╗██████╗░
@@ -13,6 +14,8 @@ void ExibirMensagemDeBoasVindas()
 ");
     Console.WriteLine(MensagemDeBoasVindas);
 }
+
+ExibirLogo();
 
 void ExibirOpcoesDoMenu()
 {
@@ -28,9 +31,9 @@ void ExibirOpcoesDoMenu()
     
     switch (OpcaoEscolhidaNumerica)
     {
-        case 1: Console.WriteLine("Você escolheu a opção: " +  OpcaoEscolhidaNumerica); 
+        case 1: RegistrarBanda(); 
             break;
-        case 2: Console.WriteLine("Você escolheu a opção: " + OpcaoEscolhidaNumerica); 
+        case 2: ExibirBandasRegistradas(); 
             break;
         case 3: Console.WriteLine("Voce escolheu a opção: " + OpcaoEscolhidaNumerica); 
             break;
@@ -45,6 +48,34 @@ void ExibirOpcoesDoMenu()
 
 }
 
+void RegistrarBanda()
+{   
+    Console.WriteLine("Registro de bandas");
+    Console.Write("Digite o nome da banda que deseja registrar: ");
+    string NomeDaBanda = Console.ReadLine()!;
+    ListaDasBandas.Add(NomeDaBanda);
+    Console.WriteLine($"A banda {NomeDaBanda} foi registrada");
+    Thread.Sleep(2000);
+    Console.Clear();
+    ExibirLogo();
+    ExibirOpcoesDoMenu();
+}
 
-ExibirMensagemDeBoasVindas();
+void ExibirBandasRegistradas()
+{
+    Console.Clear();
+    Console.WriteLine("************************************");
+    Console.WriteLine("Exibindo todas as bandas registradas");
+    Console.WriteLine("************************************\n");
+    for (int i = 0; i < ListaDasBandas.Count; i++)
+    {
+        Console.WriteLine($"Banda: {ListaDasBandas[i]}");
+    }
+    Console.WriteLine("\nDigite qualquer tecla para voltar ao Menu Principal");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirLogo();
+    ExibirOpcoesDoMenu();
+}
+
 ExibirOpcoesDoMenu();
