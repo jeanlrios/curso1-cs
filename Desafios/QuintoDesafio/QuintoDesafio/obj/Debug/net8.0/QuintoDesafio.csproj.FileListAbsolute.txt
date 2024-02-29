@@ -1,0 +1,14 @@
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.exe
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.deps.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.runtimeconfig.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.AssemblyInfoInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.AssemblyInfo.cs
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\refint\QuintoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.genruntimeconfig.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 1 - C#\Desafios\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\ref\QuintoDesafio.dll
