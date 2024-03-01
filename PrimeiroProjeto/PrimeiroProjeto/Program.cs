@@ -69,12 +69,6 @@ void ExibirBandasRegistradas()
 {
     Console.Clear();
     ExibirTituloDaOpcao("Exibindo todas as bandas.");
-
-    //for (int i = 0; i < ListaDasBandas.Count; i++)
-    //{
-       // Console.WriteLine($"Banda: {ListaDasBandas[i]}");
-    //}
-    
     foreach (string Banda in BandasRegistradas.Keys)
     {
         Console.WriteLine($"Banda: {Banda}");
